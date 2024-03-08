@@ -19,7 +19,7 @@ This is a web application project  i have developed for the assignment task whic
 ## How to Run the website
 To run the application, you need to follow these steps:
 1. Install NodeJS on your local machine.
-2. Copy the project files (excluding: `package.json` , `Node_Modules` and `package-lock.json` files) in a folder named `bank`.
+2. Copy the project files (excluding: `package.json` , `Node_Modules` files) in a folder named `bank`.
 <!-- 3. Note: Don't copy `package.json` , `Node_Modules` and `package-lock.json` files -->
 4. Create a database called `project` in MySQL and import the `database.sql` file included in the project repository else you can rename the database and update the same in extracted project files Connection code.
 5. Open the folder in VS Code or any other IDE.
